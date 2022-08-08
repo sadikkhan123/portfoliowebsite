@@ -1,0 +1,54 @@
+body {
+    padding: 25px;
+    background-color: white;
+    color: black;
+    font-size: 25px;
+  }
+  
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+  .navbar{
+    
+  }
+  .hero{
+    margin-top:3rem;
+  }
+  .about{
+    margin-top:3rem;
+  }
+  .row{
+    margin-top:3rem;
+    padding-right: 2rem;
+  }
+  .contact{
+    margin-top:3rem;
+    text-align: center;
+  }
+  .form{
+    text-align: center;
+    padding: left 3rem;
+    padding:right 3rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+
+  }
+  .footer{
+    margin-top:4rem;
+  }
+  .footer_social{
+    padding: 3rem;
+  }
+  .p-lang{
+    font-size: 100px;
+  }
+ /* loader css */
+ #loading{
+  width: 100%;
+  height: 100vh;
+  position: fixed;
+  background: black 
+  url('https://tenor.com/view/loading-gif-18564955');
+ }
+ 
